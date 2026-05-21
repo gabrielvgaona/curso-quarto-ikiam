@@ -3,6 +3,7 @@ title: "Tomando la clase de git"
 author: "Karla"
 format: pdf
 editor: visual
+lang: en
 ---
 
 ## Quarto
